@@ -1,3 +1,7 @@
 @use "./base/base";
 @use "./base/reset";
 @use "./global" as *;
+
+.header {
+    width: 100%;
+}
